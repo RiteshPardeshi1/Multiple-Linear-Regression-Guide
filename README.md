@@ -33,4 +33,4 @@ The applied version of this work is in the House Price Prediction project in thi
 
 ## Author
 
-Ritesh Pardeshi, Data Scientist
+Ritesh Pardeshi, Data Intelligence Specialist
