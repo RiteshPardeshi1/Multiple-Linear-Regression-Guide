@@ -1,4 +1,4 @@
-# Multiple Linear Regression: Concepts and Walkthrough
+# 📈 Multiple Linear Regression Explained: A Step-by-Step Python Guide
 
 A learning notebook that builds a multiple linear regression model step by step in Python, explaining the reasoning behind every preprocessing and modelling decision.
 
